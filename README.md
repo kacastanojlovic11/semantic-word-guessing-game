@@ -63,15 +63,7 @@ semantic-word-guessing-game/
 ├── target_words.json
 ├── requirements.txt
 ├── .gitignore
-├── README.md
-└── screenshots/              # Optional
-    ├── game.png
-    └── comparison.png
-```
-
-## Example screenshots
-
-Add screenshots of the game and model comparison interface here before publishing.
+└──README.md
 
 ## Notes
 
